@@ -1,6 +1,4 @@
 
----
-
 <div align="center">
 
 # 🌙 Multi-Image Zoom Reveal Preloader
@@ -204,4 +202,5 @@ Open an issue in the repo — happy to help.
 
 
 ---
+
 
